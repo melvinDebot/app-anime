@@ -1,0 +1,76 @@
+{
+  "anime": [
+    {
+      "id": 1,
+      "name": "Naruto",
+      "backgroundColor": "#E97E46",
+      "description": "Naruto est un shōnen manga écrit et dessiné par Masashi Kishimoto. Naruto a été prépublié dans l'hebdomadaire Weekly Shōnen Jump de l'éditeur Shūeisha entre septembre 1999 et novembre 2014. La série a été compilée en 72 tomes. La version française du manga est publiée par Kana entre mars 2002 et novembre 2016.",
+      "img": "https://pbs.twimg.com/media/Bhle233IAAAHevq.png",
+      "like": false
+    },
+    {
+      "id": 2,
+      "name": "One piece",
+      "backgroundColor": "#2B6FEA",
+      "description": "One Piece est une série de mangas shōnen créée par Eiichirō Oda. Elle est prépubliée depuis le 22 juillet 1997 dans le magazine hebdomadaire Weekly Shōnen Jump, puis regroupée en volumes reliés aux éditions Shūeisha depuis le 24 décembre 1997. 100 tomes sont commercialisés au Japon en septembre 2021.",
+      "img": "https://i.skyrock.net/2767/78482767/pics/3002729573_1_37_jfN4c3qG.png",
+      "like": false
+    },
+    {
+      "id": 3,
+      "name": "SNK",
+      "backgroundColor": "#303C58",
+      "description": "L’Attaque des Titans est un shōnen manga écrit et dessiné par Hajime Isayama. Il est prépublié entre septembre 2009 et avril 2021 dans le magazine Bessatsu Shōnen Magazine puis compilé en trente-quatre volumes reliés par l’éditeur Kōdansha.",
+      "img": "http://images3.wikia.nocookie.net/__cb20130516054047/shingekinokyojin/images/4/48/Eren.png",
+      "like": false
+    },
+    {
+      "id": 4,
+      "name": "Fire force",
+      "backgroundColor": "#D41316",
+      "description": "Fire Force est un shōnen manga écrit et dessiné par Atsushi Ōkubo. Il est prépublié depuis septembre 2015 dans le magazine Weekly Shōnen Magazine de l'éditeur Kōdansha, et trente-et-un tomes sont sortis en octobre 2021. La version française est éditée par Kana depuis mai 2017.",
+      "img": "https://vainkeurz.com/wp-content/uploads/2021/06/shinra-kusakabe600.png",
+      "like": false
+    },
+    {
+      "id": 5,
+      "name": "Boruto",
+      "backgroundColor": "#396FB9",
+      "description": "Boruto: Naruto Next Generations est un manga dérivé faisant suite au manga Naruto, par Ukyō Kodachi et dessiné par Mikio Ikemoto, sous la supervision de Masashi Kishimoto, l'auteur du manga Naruto, qui devient scénariste principal fin 2020.",
+      "img": "https://furansujapon.com/wp-content/uploads/2021/01/Boruto.jpg",
+      "like": false
+    },
+    {
+      "id": 6,
+      "name": "Tokyo Revengers",
+      "backgroundColor": "#CA3545",
+      "description": "Tokyo Revengers est un manga de type shōnen écrit et dessiné par Ken Wakui. Il est prépublié dans le Weekly Shōnen Magazine de l'éditeur Kōdansha depuis 2017. La version française est publiée par les éditions Glénat depuis 2019.",
+      "img": "https://fr.web.img2.acsta.net/pictures/21/06/30/12/00/4012840.jpg",
+      "like": false
+    },
+    {
+      "id": 7,
+      "name": "My Hero Academia",
+      "backgroundColor": "#DDC626",
+      "description": "My Hero Academia est un shōnen manga écrit et dessiné par Kōhei Horikoshi. Il est pré-publié depuis juillet 2014 dans le magazine Weekly Shōnen Jump de l'éditeur Shūeisha, et compte trente-deux tomes à ce jour. La version française est publiée par Ki-oon depuis avril 2016 et compte trente tomes à ce jour.",
+      "img": "https://photos.tf1.fr/780/780/perso-showpage-my-hero-academia-7dc2a0-18748c-0@1x.png",
+      "like": false
+    },
+    {
+      "id": 8,
+      "name": "Tokyo ghoul",
+      "backgroundColor": "#D25136",
+      "description": "Tokyo Ghoul est un seinen manga de Sui Ishida prépublié dans le magazine Weekly Young Jump de l'éditeur Shūeisha. La première partie, Tokyo Ghoul, est parue de 2011 à 2014 et a été compilée en 14 volumes reliés. La deuxième partie, Tokyo Ghoul:re, est publiée entre 2014 et 2018 au Japon.",
+      "img": "https://i.pinimg.com/originals/5e/8f/2b/5e8f2bc5d1cc7e550fc70267c26782d6.png",
+      "like": false
+    },
+    {
+      "id": 9,
+      "name": "One punch man",
+      "backgroundColor": "#E3C775",
+      "description": "One-Punch Man est un manga en ligne écrit et dessiné par ONE. Il est publié sur le site personnel de l'auteur depuis le 3 juin 2009. La série est devenue très populaire, dépassant les dix millions de visites avec une moyenne de 20 000 par jour",
+      "img": "https://www.japanfm.fr/wp-content/uploads/2021/09/one-punch-man.jpg",
+      "like": false
+    }
+  ]
+}
